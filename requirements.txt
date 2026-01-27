@@ -1,0 +1,8 @@
+# requirements-dev.txt
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.11.0          # Форматирование кода
+isort==5.12.0           # Сортировка импортов
+flake8==6.1.0           # Линтинг
+mypy==1.7.0             # Проверка типов
+pre-commit==3.5.0       # Pre-commit хуки
